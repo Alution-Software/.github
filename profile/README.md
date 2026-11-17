@@ -12,13 +12,13 @@
 
 ---
 
-## 🌟 About Us
+## About Us
 
-At Alution Software GmbH i.G., we are driven by a passion for technology and a mission to help businesses succeed in the digital age. We provide state-of-the-art web development services that not only meet but exceed our clients' expectations. Our focus is on creating seamless user experiences, enabling easy interaction between companies, their customers, and employees.
+At Alution Software GmbH, we are driven by a passion for technology and a mission to help businesses succeed in the digital age. We provide state-of-the-art web development services that not only meet but exceed our clients' expectations. Our focus is on creating seamless user experiences, enabling easy interaction between companies, their customers, and employees.
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
 Our expertise lies in delivering scalable, reliable, and future-proof web applications. We design, develop, and implement solutions that streamline operations, enhance customer experiences, and promote growth.
 
@@ -31,7 +31,7 @@ We take a collaborative approach to every project, working closely with our clie
 <!--
 ---
 
-## 🌐 Get In Touch
+## Get In Touch
 
 We'd love to connect and discuss how we can help your business thrive through technology!
 
