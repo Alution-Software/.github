@@ -6,7 +6,7 @@
   </a>
 </div>
 
-# Welcome to Alution Software GmbH i.G.
+# Welcome to Alution Software GmbH
 
 **Alution Software GmbH** is a web development company based in Germany, specializing in crafting innovative, high-quality digital solutions that make work smoother, more efficient, and accessible for businesses and their customers.
 
