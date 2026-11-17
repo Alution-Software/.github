@@ -42,9 +42,9 @@ We'd love to connect and discuss how we can help your business thrive through te
 
 ---
 
-## 📈 Let’s Build the Future Together
+## Let’s Build the Future Together
 
-At Alution Software GmbH i.G., we believe in the power of technology to drive growth and success. Let us help you build a digital future that’s bright and prosperous!
+At Alution Software GmbH, we believe in the power of technology to drive growth and success. Let us help you build a digital future that’s bright and prosperous!
 
 ---
 
